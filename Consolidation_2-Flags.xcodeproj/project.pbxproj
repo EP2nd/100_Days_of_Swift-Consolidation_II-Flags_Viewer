@@ -7,15 +7,40 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B807BA3A27EA3EA00043CFC4 /* Poland.png in Resources */ = {isa = PBXBuildFile; fileRef = B807BA2E27EA3E9F0043CFC4 /* Poland.png */; };
+		B807BA3B27EA3EA00043CFC4 /* Spain.png in Resources */ = {isa = PBXBuildFile; fileRef = B807BA2F27EA3E9F0043CFC4 /* Spain.png */; };
+		B807BA3C27EA3EA00043CFC4 /* Monaco.png in Resources */ = {isa = PBXBuildFile; fileRef = B807BA3027EA3E9F0043CFC4 /* Monaco.png */; };
+		B807BA3D27EA3EA00043CFC4 /* France.png in Resources */ = {isa = PBXBuildFile; fileRef = B807BA3127EA3EA00043CFC4 /* France.png */; };
+		B807BA3E27EA3EA00043CFC4 /* Ireland.png in Resources */ = {isa = PBXBuildFile; fileRef = B807BA3227EA3EA00043CFC4 /* Ireland.png */; };
+		B807BA3F27EA3EA00043CFC4 /* Germany.png in Resources */ = {isa = PBXBuildFile; fileRef = B807BA3327EA3EA00043CFC4 /* Germany.png */; };
+		B807BA4027EA3EA00043CFC4 /* Russia.png in Resources */ = {isa = PBXBuildFile; fileRef = B807BA3427EA3EA00043CFC4 /* Russia.png */; };
+		B807BA4127EA3EA00043CFC4 /* UK.png in Resources */ = {isa = PBXBuildFile; fileRef = B807BA3527EA3EA00043CFC4 /* UK.png */; };
+		B807BA4227EA3EA00043CFC4 /* US.png in Resources */ = {isa = PBXBuildFile; fileRef = B807BA3627EA3EA00043CFC4 /* US.png */; };
+		B807BA4327EA3EA00043CFC4 /* Italy.png in Resources */ = {isa = PBXBuildFile; fileRef = B807BA3727EA3EA00043CFC4 /* Italy.png */; };
+		B807BA4427EA3EA00043CFC4 /* Estonia.png in Resources */ = {isa = PBXBuildFile; fileRef = B807BA3827EA3EA00043CFC4 /* Estonia.png */; };
+		B807BA4527EA3EA00043CFC4 /* Nigeria.png in Resources */ = {isa = PBXBuildFile; fileRef = B807BA3927EA3EA00043CFC4 /* Nigeria.png */; };
 		B807E73A27E6112C005FAF4D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B807E73927E6112C005FAF4D /* AppDelegate.swift */; };
 		B807E73C27E6112C005FAF4D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B807E73B27E6112C005FAF4D /* SceneDelegate.swift */; };
 		B807E73E27E6112C005FAF4D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B807E73D27E6112C005FAF4D /* ViewController.swift */; };
 		B807E74127E6112C005FAF4D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B807E73F27E6112C005FAF4D /* Main.storyboard */; };
 		B807E74327E61136005FAF4D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B807E74227E61136005FAF4D /* Assets.xcassets */; };
 		B807E74627E61136005FAF4D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B807E74427E61136005FAF4D /* LaunchScreen.storyboard */; };
+		B807E74E27E612BF005FAF4D /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B807E74D27E612BF005FAF4D /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B807BA2E27EA3E9F0043CFC4 /* Poland.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Poland.png; sourceTree = "<group>"; };
+		B807BA2F27EA3E9F0043CFC4 /* Spain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Spain.png; sourceTree = "<group>"; };
+		B807BA3027EA3E9F0043CFC4 /* Monaco.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Monaco.png; sourceTree = "<group>"; };
+		B807BA3127EA3EA00043CFC4 /* France.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = France.png; sourceTree = "<group>"; };
+		B807BA3227EA3EA00043CFC4 /* Ireland.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Ireland.png; sourceTree = "<group>"; };
+		B807BA3327EA3EA00043CFC4 /* Germany.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Germany.png; sourceTree = "<group>"; };
+		B807BA3427EA3EA00043CFC4 /* Russia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Russia.png; sourceTree = "<group>"; };
+		B807BA3527EA3EA00043CFC4 /* UK.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = UK.png; sourceTree = "<group>"; };
+		B807BA3627EA3EA00043CFC4 /* US.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = US.png; sourceTree = "<group>"; };
+		B807BA3727EA3EA00043CFC4 /* Italy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Italy.png; sourceTree = "<group>"; };
+		B807BA3827EA3EA00043CFC4 /* Estonia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Estonia.png; sourceTree = "<group>"; };
+		B807BA3927EA3EA00043CFC4 /* Nigeria.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Nigeria.png; sourceTree = "<group>"; };
 		B807E73627E6112C005FAF4D /* Consolidation_2-Flags.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Consolidation_2-Flags.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B807E73927E6112C005FAF4D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B807E73B27E6112C005FAF4D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +49,7 @@
 		B807E74227E61136005FAF4D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B807E74527E61136005FAF4D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B807E74727E61136005FAF4D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B807E74D27E612BF005FAF4D /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +63,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		B807B9CD27EA30F30043CFC4 /* Content */ = {
+			isa = PBXGroup;
+			children = (
+				B807BA3827EA3EA00043CFC4 /* Estonia.png */,
+				B807BA3127EA3EA00043CFC4 /* France.png */,
+				B807BA3327EA3EA00043CFC4 /* Germany.png */,
+				B807BA3227EA3EA00043CFC4 /* Ireland.png */,
+				B807BA3727EA3EA00043CFC4 /* Italy.png */,
+				B807BA3027EA3E9F0043CFC4 /* Monaco.png */,
+				B807BA3927EA3EA00043CFC4 /* Nigeria.png */,
+				B807BA2E27EA3E9F0043CFC4 /* Poland.png */,
+				B807BA3427EA3EA00043CFC4 /* Russia.png */,
+				B807BA2F27EA3E9F0043CFC4 /* Spain.png */,
+				B807BA3527EA3EA00043CFC4 /* UK.png */,
+				B807BA3627EA3EA00043CFC4 /* US.png */,
+			);
+			path = Content;
+			sourceTree = "<group>";
+		};
 		B807E72D27E6112C005FAF4D = {
 			isa = PBXGroup;
 			children = (
@@ -59,10 +104,12 @@
 				B807E73927E6112C005FAF4D /* AppDelegate.swift */,
 				B807E73B27E6112C005FAF4D /* SceneDelegate.swift */,
 				B807E73D27E6112C005FAF4D /* ViewController.swift */,
+				B807E74D27E612BF005FAF4D /* DetailViewController.swift */,
 				B807E73F27E6112C005FAF4D /* Main.storyboard */,
-				B807E74227E61136005FAF4D /* Assets.xcassets */,
 				B807E74427E61136005FAF4D /* LaunchScreen.storyboard */,
 				B807E74727E61136005FAF4D /* Info.plist */,
+				B807E74227E61136005FAF4D /* Assets.xcassets */,
+				B807B9CD27EA30F30043CFC4 /* Content */,
 			);
 			path = "Consolidation_2-Flags";
 			sourceTree = "<group>";
@@ -125,9 +172,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B807BA4027EA3EA00043CFC4 /* Russia.png in Resources */,
+				B807BA4227EA3EA00043CFC4 /* US.png in Resources */,
+				B807BA3F27EA3EA00043CFC4 /* Germany.png in Resources */,
+				B807BA3D27EA3EA00043CFC4 /* France.png in Resources */,
+				B807BA3E27EA3EA00043CFC4 /* Ireland.png in Resources */,
+				B807BA4427EA3EA00043CFC4 /* Estonia.png in Resources */,
+				B807BA4127EA3EA00043CFC4 /* UK.png in Resources */,
+				B807BA3B27EA3EA00043CFC4 /* Spain.png in Resources */,
 				B807E74627E61136005FAF4D /* LaunchScreen.storyboard in Resources */,
+				B807BA4327EA3EA00043CFC4 /* Italy.png in Resources */,
+				B807BA4527EA3EA00043CFC4 /* Nigeria.png in Resources */,
 				B807E74327E61136005FAF4D /* Assets.xcassets in Resources */,
 				B807E74127E6112C005FAF4D /* Main.storyboard in Resources */,
+				B807BA3C27EA3EA00043CFC4 /* Monaco.png in Resources */,
+				B807BA3A27EA3EA00043CFC4 /* Poland.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,6 +200,7 @@
 				B807E73E27E6112C005FAF4D /* ViewController.swift in Sources */,
 				B807E73A27E6112C005FAF4D /* AppDelegate.swift in Sources */,
 				B807E73C27E6112C005FAF4D /* SceneDelegate.swift in Sources */,
+				B807E74E27E612BF005FAF4D /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
